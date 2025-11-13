@@ -7,7 +7,7 @@ Front End
 - Form validasi untuk semua input
 
 1. Clone repo
-2. Copy `.env.example` ke `.env.local` dan sesuaikan konfigurasi
+2. Copy `env.local` ke `.env.local` dan sesuaikan konfigurasi
 3. Setting URL di .env.local
 4. npm install
 5. npm run dev
